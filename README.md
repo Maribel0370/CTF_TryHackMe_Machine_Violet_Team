@@ -80,6 +80,13 @@ Completed NSE at 14:03, 0.00s elapsed
 Initiating NSE at 14:03
 Completed NSE at 14:03, 0.00s elapsed
 Initiating NSE at 14:03
+
+# Nessus Scan and Vulnerability Discovery
+# A scan was conducted using Nessus to identify potential vulnerabilities. During the scan, a critical vulnerability with a CVSS score of 9.8 was discovered in Apache. A screenshot of the findings has been generated and included for reference.
+# Nessus Scan and Vulnerability Discovery
+# A scan was conducted using Nessus to identify potential vulnerabilities. During the scan, a critical vulnerability with a CVSS score of 9.8 was discovered in Apache. A screenshot of the findings has been generated and included for reference. Additionally, a full Nessus report has been created and is available for review.
+
+
 Completed NSE at 14:03, 0.00s elapsed
 Read data files from: /usr/share/nmap
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
